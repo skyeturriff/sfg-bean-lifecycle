@@ -1,9 +1,8 @@
-# Dependency Injection Examples
+# Spring Bean Lifecycle Demo
 
-This repository is for an example application built in my [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course
+This repository is for an example application built following some lectures in [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course.
 
-As you work through the course, please feel free to fork this repository to your out GitHub repo. Most links contain links 
-to source code changes. If you encounter a problem you can compare your code to the lesson code. [See this link for help with compares](https://github.com/springframeworkguru/spring5webapp/wiki#getting-an-error-but-cannot-find-what-is-different-from-lesson-source-code)
+Demonstrates Spring Bean Lifecycle and the options Spring framework offers for hooking into lifecycle events.
 
 ## All Spring Framework Guru Courses
 ### Spring Framework 5
